@@ -24,28 +24,16 @@ This project is an **AI-powered system** that analyzes **skin tone & face shape*
 
 ---
 
-## 🔹 Installation Guide  
+## 🔹 Installation Guide 
 
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/makeup-recommendation.git
-cd makeup-recommendation
-2️⃣ Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3️⃣ Run Flask API
-bash
-Copy
-Edit
+
 python flask_api.py
 📌 The API will be available at: http://127.0.0.1:5000/predict
 
 4️⃣ Run Streamlit Web App
-bash
-Copy
-Edit
+
 streamlit run app_ui.py
 📌 Access the Web UI at http://localhost:8501
 
